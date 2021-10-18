@@ -1,0 +1,1 @@
+sed -i "s/cadillac jaune/chevrolet impala/g" textexo2.txt | sed -i "s/vert/rouge/g" textexo2.txt

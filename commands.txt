@@ -1,0 +1,406 @@
+    1  npm install express -g
+    2  npm install express -g
+    3  mkdir Test express
+    4  cls
+    5  ls
+    6  cd Test_express/
+    7  sudo su
+    8  getcwd
+    9  exit
+   10  su root 
+   11  exit
+   12  reboot
+   13  su root
+   14  dscl . append /Groups/_developer GroupMembership stagiaire
+   15  sudo dscl . append /Groups/_developer GroupMembership stagiaire
+   16  exit
+   17  telnet 127.0.0.1 2001 ; exit
+   18  virtuakbox
+   19  virtualbox
+   20  diskutils list
+   21  diskutil list
+   22  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+   23  cd desktop
+   24  cd nodejs/
+   25  docker build -t root/node-web-app
+   26  docker build -t user/node-web-app
+   27  docker build -t 
+   28  docker build
+   29  docker build -t node-web-app
+   30  docker run -d -p 80:80 docker/getting-started
+   31  docker ps
+   32  docker down
+   33  docker down -v
+   34  docker exit
+   35  docker stop
+   36  docker ps
+   37  docker stop a5cb04e52076
+   38  docker ps
+   39  docker build -t user/node-web-app
+   40  docker build -t admin/node-web-app
+   41  docker build -t /node-web-app
+   42  docker build -t node-web-app
+   43  docker build -t ./node-web-app
+   44  npm i
+   45  docker build -t <your username>/node-web-app
+   46  docker build -t 
+   47  docker build -t mangataDev/node-web-app
+   48  docker build -t mangata-dev/node-web-app
+   49  docker build -t "mangata-dev/node-web-app"
+   50  docker build -t "mangata-dev/node-web-app"
+   51  docker build -t <your node-web-app .
+   52  docker build -t node-web-app .
+   53  docker ps
+   54  docker images
+   55  docker-compose up
+   56  docker-compose up
+   57  docker-compose up -d
+   58  docker ps
+   59  docker build -t node-web-app .
+   60  docker-compose up -d
+   61  docker build -t node-web-app .
+   62  docker-compose up -d
+   63  docker build -t node-web-app .
+   64  docker-compose up -d
+   65  docker ps
+   66  docker exect -it d3ca439212af bash
+   67  docker exec -it d3ca439212af bash
+   68  ls
+   69  docker exec -it d3ca439212af bash
+   70  exit
+   71  docker exec -it 3572ff5c1419785fb6996ed28116bdc6014e430cc60fcc241c660e450236a148 /bin/sh; exit
+   72  cd desktop
+   73  cd nodejs
+   74  docker build -t node-web-app .
+   75  docker-compose up -d
+   76  docker images
+   77  docker build -t node-web-app .
+   78  docker images
+   79  docker-compose up -d
+   80  docker-compose pull
+   81  docker-compose pull
+   82  npm run serve
+   83  node server.js
+   84  node server.js
+   85  npm i
+   86  node server.js
+   87  node server.js
+   88  node server.js
+   89  node server.js
+   90  npm i nodemon
+   91  npm i body-parser
+   92  node server.js
+   93  npm start
+   94  cd .
+   95  cd ..
+   96  git clone https://github.com/yoannduc/todo-ressources.git
+   97  cd todo-ressources/
+   98  ls
+   99  cd node-sample-app/
+  100  ls
+  101  cd docker/
+  102  ls
+  103  docker-compose up -d
+  104  docker-compose up -d
+  105  docker-compose up -d
+  106  docker-compose up -d
+  107  cd ..
+  108  ls
+  109  npm i
+  110  cd docker/
+  111  docker-compose up -d
+  112  docker-compose:dev up -d
+  113  docker-compose.dev up -d
+  114  yarn docker:dev
+  115  npm run docker:dev
+  116  docker exec -it 3572ff5c1419785fb6996ed28116bdc6014e430cc60fcc241c660e450236a148 /bin/sh; exit
+  117  ls
+  118  docker exec -it 3572ff5c1419785fb6996ed28116bdc6014e430cc60fcc241c660e450236a148 /bin/sh; exit
+  119  cd desktop
+  120  cd todo-ressources/
+  121  cd node-sample-app
+  122  git status
+  123  git log
+  124  git init
+  125  git log
+  126  git config user.name "Mangata"
+  127  git config user.email mangata.tony@gmail.com
+  128  git commit -m "first commit"
+  129  git status
+  130  git add .
+  131  git status
+  132  git commit -m "full project with node_modules"
+  133  git branch -M main
+  134  git remote add origin https://github.com/Mangata-Dev/node-sample-app.git
+  135  git push -u origin main
+  136  git status
+  137  git add .
+  138  git commit -m "add bdd script" 
+  139  git push -u origin main
+  140  cd desktop
+  141  cd electronjs/
+  142  ls
+  143  node scraping.js 
+  144  node scraping.js 
+  145  node scraping.js 
+  146  cd desktop/machineLearning/
+  147  npm init
+  148  npm i ml
+  149  npm i danfo
+  150  npm uninstall danfo
+  151  npm i danfosjs-node
+  152  npm i danfojs-node
+  153  clear
+  154  node script.js 
+  155  node script.js 
+  156  git init git config user.name
+  157  git config user.name
+  158  git init
+  159  git status 
+  160  git add .
+  161  node script.js 
+  162  cd desktop/machineLearning/
+  163  node script.js 
+  164  npm i vue
+  165  vue create marchin-learning
+  166  npm install @vue/cli
+  167  cd desktop/machineLearning/
+  168  ls
+  169  vue -v
+  170  npm install -g @vue/cli
+  171  pwd
+  172  cd Documents
+  173  pwd
+  174  mkdir Day00 
+  175  pwd
+  176  ls
+  177  ls lt 
+  178  cd /User/admin/Document/covers
+  179  pwd -v
+  180  ls -v
+  181  ls 
+  182  cd covers
+  183  -v
+  184  ls -v
+  185  mkdir Constructeur
+  186  ls
+  187  cd Constructeur 
+  188  mkdir Sony
+  189  mkdir Nintendo 
+  190  mkdir Microsoft
+  191  mkdir Sega 
+  192  cd sony
+  193  cd User/admin/
+  194  /user 
+  195  cd user
+  196  cd User
+  197  exit
+  198  pwd
+  199  user admin 
+  200  cd document
+  201  cd Documents
+  202  mkdir Ex00
+  203  cd covers
+  204  ls
+  205  cd constructeur 
+  206  ls
+  207  cd Sony
+  208  ls
+  209  mkdir Consoles
+  210  cd Consoles
+  211  ls
+  212  mkdir PS4
+  213  cd
+  214  ls
+  215  cd Documents
+  216  cd covers
+  217  ls 
+  218  mv playstation_4.watchdogs2.jpg Constructeur/Sony/Consoles/Ps4
+  219  cd ps4
+  220  cd Constructeur/sony/consoles/ps4
+  221  ls
+  222  cd covers
+  223  cd
+  224  cd covers
+  225  cd documents/covers
+  226  mv playstation_4.assassinscreedodyssey.jpg Constructeur/Sony/Consoles/PS4
+  227  ls
+  228  mv playstation_4.unchartedthelostlegacy.jpg Constructeur/Sony/Consoles/ps4
+  229  cd Constructeur/sony/consoles/
+  230  ls
+  231  mkdir PS5
+  232  cd
+  233  cd Documents/covers
+  234  mv playstation_5.assassinscreedvalhalla.jpg constructeur/sony/consoles/ps5
+  235  mv playstation_5.farcry6.jpg constructeur/sony/consoles/ps5
+  236  cd document
+  237  cd documents/covers
+  238  cd
+  239  mv documents/covers/*playstation_5* constructeur/sony/consoles/ps5
+  240  cd 
+  241  documents/covers
+  242  cd
+  243  ls
+  244  mv Documents/covers/*playstation_5* constructeur/sony/consoles/ps5
+  245  ls Documents/
+  246  ls Documents/covers/
+  247* mv Documents/covers/*playstation_5* Constructeur/sonCconsoles/ps5
+  248* mv Documents/covers/*playstation_5* Constructeur/sony/consoles/PS5
+  249  mv Documents/covers/*playstation_5* Constructeur/Sony/Consoles/PS5
+  250  cd documents/covers
+  251  mv playstation_5.residentevilvillage_.jpg Constructeur/Sony/Consoles/PS5
+  252  mv ps4_fifa14.jpg constructeur/sony/consoles/ps4
+  253  cd constructeur/microsoft
+  254  ls
+  255  mkdir Consoles
+  256  mkdir Xbox
+  257  mkdir Xbox360
+  258  cd
+  259  cd Documents/covers
+  260  mv xbox_halo2.jpg constructeur/microsoft/consoles/xbox
+  261  mv xbox_deadoralive3.jpg constructeur/microsoft/consoles/xbox
+  262  mv xbox_deadtorights.jpg constructeur/microsoft/consoles/xbox
+  263  mv xbox_defjamfightforny.jpg constructeur/microsoft/consoles/xbox
+  264  ls
+  265  mv xbox_halo_2.jpg constructeur/microsoft/consoles/xbox
+  266  mv xbox_jetsetradiofuture_2.jpg constructeur/microsoft/consoles/xbox
+  267  mv xbox_needforspeedunderground2.jpg constructeur/microsoft/consoles/xbox
+  268  mv xbox_360.fableiii.jpg constructeur/microsoft/consoles/xbox360
+  269  mv x360_callofduty2,jpg constructeur/microsoft/consoles/xbox360
+  270  mv x360_callofduty2.jpg constructeur/microsoft/consoles/xbox360
+  271  mv x360_callofduty3.jpg constructeur/microsoft/consoles/xbox360
+  272  mv x360_callofduty4.jpg constructeur/microsoft/consoles/xbox360
+  273  mv x360_callofduty3.jpg constructeur/microsoft/consoles/xbox360
+  274  ls
+  275  mv x360_calloduty3.jpg constructeur/microsoft/consoles/xbox360
+  276  mv x360_callfoduty3.jpg constructeur/microsoft/consoles/xbox360
+  277  mv x360_callofdutyblackopsii.jpg constructeur/microsoft/consoles/xbox360
+  278  ls
+  279  cd constructeur/sega
+  280  ls
+  281  mkdir Consoles
+  282  mkdir Dreamcast
+  283  cd
+  284  cd documents/covers
+  285  mv dc_jetsetradio_eu_front constructeur/sega/consoles/dreamcast
+  286  mv dc_jetsetradio_eu_front.png constructeur/sega/consoles/dreamcast
+  287  mv dc_jetsetradio_eu_front.png constructeur/sega/consoles/dreamcast
+  288  ls
+  289  cd Constructeur 
+  290  ls
+  291  cd Sega
+  292  ls
+  293  mv Dreamcast Consoles
+  294  ls
+  295  mv dc_jetsetradio_eu_front.png constructeur/sega/consoles/dreamcast
+  296  cf
+  297  cd
+  298  cd documents/covers
+  299  mv dc_jetsetradio_eu_front.jpg constructeur/sega/consoles/dreamcast
+  300  mv dc_jetgrindradio_10.jpg constructeur/sega/consoles/dreamcast
+  301  mv dc_s constructeur/sega/consoles/dreamcast
+  302  mv dc_shenmue.PNG constructeur/sega/consoles/dreamcast
+  303  mv dc_shenmueii_5.png constructeur/sega/consoles/dreamcast
+  304  mv dc_shenmueii_5.png constructeur/sega/consoles/dreamcast
+  305  ls
+  306  mv dc_shenmue_eu.jpg constructeur/sega/consoles/dreamcast
+  307  mv dc_shenmueii_5.jpg constructeur/sega/consoles/dreamcast
+  308  ls
+  309  cd constructeur/nintendo
+  310  mkdir consoles
+  311  cd consoles
+  312  mkdir Gameboy
+  313  mkdir Gamecube
+  314  cd
+  315  cd documents/covers
+  316  mv gb_pokemongreen_3.jpg constructeur/nintendo/consoles/gameboy
+  317  mv gb_pokemonyellow_au.jpg constructeur/nintendo/consoles/gameboy
+  318  mv gbc_pokemongold.jpg constructeur/nintendo/consoles/gameboy
+  319  gb_pokemonblue_eu.jpg constructeur/nintendo/consoles/gameboy
+  320  ls
+  321  mv gameboy.pokmonred.jpg constructeur/nintendo/consoles/gameboy
+  322  mv gb_pokemonblue_eu.jpg constructeur/nintendo/consoles/gameboy
+  323  mv gc_ constructeur/nintendo/consoles/gamecube
+  324  ls
+  325  mv gc_supermariosunshine.jpg constructeur/nintendo/consoles/gamecube
+  326  mv gc_mariokartdoubledash.jpg constructeur/nintendo/consoles/gamecube
+  327  ls
+  328  cd constructeur
+  329  ls
+  330  sega
+  331  cd sega
+  332  ls
+  333  cd consoles
+  334  ls
+  335  cd dreamcast
+  336  ls
+  337  cd
+  338  cd documents/covers
+  339  ls
+  340  constructeur
+  341  cd constructeur 
+  342  ls
+  343  cd Microsoft
+  344  ls
+  345  mv Xbox consoles
+  346  mv Xbox Consoles
+  347  cd consoles
+  348  ls
+  349  cd xbox
+  350  cd xbox360
+  351  ls
+  352  cd 
+  353  cd documents/covers
+  354  cd constructeur/Microsoft
+  355  ls
+  356  mv Xbox Consoles
+  357* mv Xbox Consoles/xboxc
+  358  cd consoles
+  359  ls
+  360  ls
+  361  cd
+  362  ls
+  363  cd Documents/
+  364  ls
+  365  cd covers/
+  366  ls
+  367  cd Constructeur/
+  368  ls
+  369  cd Microsoft/
+  370  ls
+  371  cd Consoles/
+  372  ls
+  373  cd xbox
+  374  cd 
+  375  cd Documents/
+  376  ls
+  377  cd covers/Constructeur/Microsoft/Consoles/
+  378  ls
+  379  rm xbox
+  380  rm xbox360 
+  381  ls
+  382  cd
+  383  cd documents/covers
+  384  ls
+  385  mv x360_callfoduty3.jpg
+  386  mv x360_callfoduty3.jpg constructeur/microsoft/consoles/xbox360
+  387  mv x360_callofduty2.jpg constructeur/microsoft/consoles/xbox360
+  388  mv x360_callofduty4.jpg constructeur/microsoft/consoles/xbox360
+  389  mv x360_callofdutyblackopsii.jpg constructeur/microsoft/consoles/xbox360
+  390  mv xbox_360.fableiii.jpg constructeur/microsoft/consoles/xbox360
+  391  mv xbox_deadoralive3.png  constructeur/microsoft/consoles/xbox
+  392  mv xbox_deadoralive3.jng  constructeur/microsoft/consoles/xbox
+  393  mv xbox_deadoralive3.jpg  constructeur/microsoft/consoles/xbox
+  394  mv xbox_defjamfightforny.jpg  constructeur/microsoft/consoles/xbox
+  395  mv xbox_halo2.jpg  constructeur/microsoft/consoles/xbox
+  396  mv xbox_halo_2.jpg  constructeur/microsoft/consoles/xbox
+  397* m  constructeur/microsoft/consoles/xbox
+  398  ls
+  399  mv xbox_deadtorights.jpg  constructeur/microsoft/consoles/xbox
+  400  mv xbox_needforspeedunderground2.jpg  constructeur/microsoft/consoles/xbox
+  401  ls
+  402  history
+  403  vim
+  404  ls
+  405  vim commands.txt
+  406  history >> commands.txt 
